@@ -1,0 +1,18 @@
+{
+    "featured": [
+        "clnrest",
+    ],
+    "extensions": [
+        {
+            "id": "clnrest",
+            "repo": "https://github.com/21M4TW/clnrest",
+            "name": "Streamer Copilot",
+            "version": "0.1.0",
+            "min_lnbits_version": "1.4.0",
+            "short_description": "CLN REST Interface for LNbits",
+            "icon": "https://raw.githubusercontent.com/21M4TW/clnrest/main/static/image/clnrest.png",
+            "archive": "https://github.com/21M4TW/clnrest/archive/refs/tags/v0.1.0.zip",
+            "hash": "82075f13572cfd77d529d00af723a09f1945634d869640397d23a5d649eb1935"
+        },
+    ]
+}
